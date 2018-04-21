@@ -1,5 +1,7 @@
 *#
 *~
+*.class
+*.hasTasty
 native-image-jar/
 /hello
 sources/
