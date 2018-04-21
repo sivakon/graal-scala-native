@@ -1,5 +1,6 @@
 *#
 *~
+native-image-jar/
 /hello
 sources/
 target/
