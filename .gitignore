@@ -2,6 +2,8 @@
 *~
 *.class
 *.hasTasty
+*.html
+scala-dotty-example/
 native-image-jar/
 /hello
 sources/
